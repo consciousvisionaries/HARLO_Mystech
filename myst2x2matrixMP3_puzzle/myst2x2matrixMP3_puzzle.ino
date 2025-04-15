@@ -69,7 +69,7 @@ String buttonsHTMLTitle = "";
 
 // github
 const char* GITHUB_USER = "consciousvisionaries";
-const char* GITHUB_REPO = "HARLO_Mysttech";
+const char* GITHUB_REPO = "HARLO_Mystech";
 const char* GITHUB_BRANCH = "main/myst2x2matrix_puzzle";
 const char* GITHUB_BIN = "myst2x2matrix_puzzle.ino.esp32da.bin"; // esp32 wroom
 

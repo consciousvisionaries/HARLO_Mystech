@@ -108,7 +108,7 @@ struct MQTTSettings {
   String mqttUsername = "9grsvy8373";
   String mqttPassword = "8bdehprsuz";
   String mqttBroker = "b37.mqtt.one";
-  const char* mqttTopic = "9grsvy8373/edna";
+  const char* mqttTopic = "9grsvy8373/harlo";
   String bup_mqttBroker[3] = {"b37.mqtt.one", "192.168.0.129", "broker.emqx.io"};
   String bup_mqttUser[3] = {"9grsvy8373", "pro1polaris",""};
   String bup_mqttPassword[3] = {"8bdehprsuz", "CVr819P*!",""};
